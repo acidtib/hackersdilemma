@@ -13,7 +13,7 @@
   <meta property="og:image" content="http://hackersdilemma.com/pupi/assets/images/facebook.jpg"/>
   <meta property="og:site_name" content="Hackers Dilemma"/>
   <meta property="og:url" content="http://hackersdilemma.com" >
-  <meta property="og:description" content=""/>
+  <meta property="og:description" content='hackers.dilemma = "Morality"'/>
   <meta property="og:type" content="website" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="pupi/assets/images/icons/apple-icon-57x57.png">

@@ -1,0 +1,16 @@
+Options +Indexes
+
+IndexOptions FancyIndexing
+IndexOptions IgnoreCase XHTML NameWidth=*
+IndexOptions SuppressHTMLPreamble SuppressRules HTMLTable
+IndexOptions SuppressDescription
+
+IndexOrderDefault Ascending Name
+
+IndexIgnore /pupi
+
+HeaderName /pupi/header.php
+ReadmeName /pupi/footer.html
+
+AddType text/html .php
+Addhandler application/x-httpd-php .php

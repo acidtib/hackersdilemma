@@ -4,14 +4,13 @@
 <meta charset="utf-8">
 <title>hackers.dilemma</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <meta property="og:title" content="Hackers Dilemma"/>
+  <meta property="og:title" content="hackers.dilemma"/>
   <meta property="og:image" content="http://hackersdilemma.com/pupi/assets/images/facebook.jpg"/>
-  <meta property="og:site_name" content="Hackers Dilemma"/>
+  <meta property="og:site_name" content="hackers.dilemma"/>
   <meta property="og:url" content="http://hackersdilemma.com" >
   <meta property="og:description" content='hackers.dilemma = "Morality"'/>
   <meta property="og:type" content="website" />
@@ -32,7 +31,7 @@
 
   <style type="text/css">
     body {
-      font-family: 'Roboto Condensed', sans-serif;
+      text-transform: lowercase;
     }
   </style>
 

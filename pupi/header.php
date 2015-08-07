@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>hackers.dilemma</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link href="http://fonts.googleapis.com/css?family=Kotta+One|Cantarell:400,700" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -29,6 +29,12 @@
   <link rel="icon" type="image/png" sizes="32x32" href="pupi/assets/images/icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="pupi/assets/images/icons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="pupi/assets/images/icons/favicon-16x16.png">
+
+  <style type="text/css">
+    body {
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+  </style>
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
